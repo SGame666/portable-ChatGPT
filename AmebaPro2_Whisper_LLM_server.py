@@ -32,7 +32,7 @@ from transformers import AutoModelForCausalLM , AutoTokenizer
 #model_name = "microsoft/phi-2"
 #model_name = "microsoft/Phi-3-mini-4k-instruct"
 model_name = "microsoft/Phi-3-mini-128k-instruct"
-#model_name = "microsoft/Orca-2-7b"
+#model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
 #model_name = "google/gemma-1.1-2b-it"
 #model_name = "google/gemma-1.1-7b-it"
 #model_name = "mistralai/Mistral-7B-Instruct-v0.2"
